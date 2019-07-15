@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "testing",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "Testing again",
+      "id": 2
+    },
+    {
+      "title": "Create stream",
+      "description": "something different",
+      "id": 3
+    },
+    {
+      "title": "A new form",
+      "description": "Something different and edit still here",
+      "userId": "114501173323327791472",
+      "id": 4
+    }
+  ]
+}
